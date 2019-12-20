@@ -1,0 +1,28 @@
+﻿#include<iomanip>
+#include <iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+	
+	cout << setw(30) << "*" << endl;
+	cout << setw(30) << "**" << endl;
+	cout << setw(30) << "***" << endl;
+	cout << setw(30) << "****" << endl;
+	cout << setw(30) << "*****" << endl;
+	cout << setw(30) << "******" << endl;
+	cout << setw(30) << "*******" << endl;
+	cout << setw(30) << "********" << endl;
+	cout << setw(30) << "*********" << endl;
+	cout << setw(30) << "**********" << endl;
+	cout << setw(30) << "***********" << endl;
+	cout << setw(40) << "************************" << endl;
+	cout << setw(40) << "************************" << endl;
+	cout << setw(39) << "**********************" << endl;
+	cout << setw(38) << "********************" << endl;
+	return 0;
+
+}
